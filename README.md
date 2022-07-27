@@ -38,12 +38,16 @@ Use proper icons
 
 ## Section7 
 
+Ignore it for now(do it after u know javascript)
+
 Make few reviews:
 eg: Quotes Slideshow
 
 ![7.png](7.png)
 
 ## Section8 
+
+Ignore it for now(do it after u know javascript)
 
 Accordion(will require javascript)
 When you open one accordion others will get closed if they are open.
